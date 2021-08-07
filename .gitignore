@@ -13,7 +13,7 @@
 # Node / NPM / Yarn
 # +++++++++++++++++++++++++++++++++++++++
 node_modules
-build
+
 npm-debug.log
 
 # Logs
@@ -62,7 +62,6 @@ build/Release
 # ---------------------------------------
 
 # TypeScript compiled files
-dist
 .build-cache
 
 # Testing
